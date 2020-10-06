@@ -1,0 +1,2 @@
+file 'file:E:/manim/Basics/media/videos/graph/480p15/partial_movie_files/PlotGraph/00000.mp4'
+file 'file:E:/manim/Basics/media/videos/graph/480p15/partial_movie_files/PlotGraph/00001.mp4'
